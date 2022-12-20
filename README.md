@@ -16,7 +16,7 @@ $ git clone https://github.com/nurxan02/PortfolioAspNet.git
 ```
 ## Database
 
-Database is compressed to [**``.bacpac``**](https://github.com/nurxan02/PortfolioAspNet/blob/master/MyPortfolioBacpac.bacpac) Data-tier exporting file  
+Database is compressed to [**``.bacpac``**](https://github.com/nurxan02/PortfolioAspNet/blob/master/MyPortfolioBacpac.bacpac?raw=true) Data-tier exporting file  
 <br>
 You can restore by this file for All Databases informations
 
