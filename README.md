@@ -14,6 +14,12 @@ Open your ``terminal``/``shell``/``gitbash``/``cmd`` and write this command
 # Clone Repository
 $ git clone https://github.com/nurxan02/PortfolioAspNet.git
 ```
+## Database
+
+Database is compressed to [**``.bacpac``**](https://github.com/nurxan02/PortfolioAspNet/blob/master/MyPortfolioBacpac.bacpac) Data-tier exporting file  
+<br>
+You can restore by this file for All Databases informations
+
 
 ## Ingredients
 
